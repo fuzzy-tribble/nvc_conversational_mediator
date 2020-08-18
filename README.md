@@ -31,5 +31,14 @@ Once, we can identify our feelings and met or unmet needs in any given situation
 
 **Note**: Aside from communicating our FEELINGS and NEEDS and making REQUESTS effectively, NVC also teaches EMPATHY however that is out of the scope of this project.
 
+## Walkthrough
+
+[Part 1](https://github.com/nancynobody/nvc_conversational_mediator/blob/master/Part_1.ipynb) - can POS tagging and parsing give somewhat good results? yes, reasonable results for basic parsing and kwp lookup
+
+[Part 2](https://github.com/nancynobody/nvc_conversational_mediator/blob/master/Part_2.ipynb) - how far syntactical analysis and parsing get us? confusion matrices to analyze multiple sample inputs and get system feedback using `nvc_toolkit` Python module
+
+[Part 3](https://github.com/nancynobody/nvc_conversational_mediator/blob/master/Part_3.ipynb) - how much data would we need to train an ann to extract "feedback data" (feelings, needs, observations, etc)?
+
+
 ## Results and Examples
 TODO
